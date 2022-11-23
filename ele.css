@@ -1,0 +1,20 @@
+#simple
+{
+    background-color: blue;
+}
+.cls
+{
+    color: cadetblue;
+}
+.new
+{
+    color: black;
+}
+.cls,p,id
+{
+background-color: burlywood;
+}
+*
+{
+    font-style: italic;
+}

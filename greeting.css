@@ -1,0 +1,44 @@
+
+.parent
+{
+    height: 300px;
+    width: 1600px;
+    border: 2px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:initial;
+}
+#one
+{
+    color:blue;
+}
+#three
+{
+    color:red;
+}
+#two
+{
+    color: beige;
+}
+.child1
+{
+    height: 200px;
+    width: 500px;
+    border: 2px solid blue;
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662__480.jpg");
+}
+.child2
+{
+    height: 200px;
+    width: 500px;
+    border: 2px solid blue;
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662__480.jpg");
+}
+.child3
+{
+    height: 200px;
+    width: 500px;
+    border: 2px solid blue;
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662__480.jpg");
+}

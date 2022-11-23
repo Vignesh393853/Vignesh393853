@@ -1,0 +1,67 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#navSec
+{
+    height: 80px;
+    width: 100px;
+    background-color:blue;
+}
+#navArt
+{
+    height: 80px;
+    width: 85px;
+    margin: 1 auto;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+
+}
+.navDiv1
+{
+    height: 80px;
+    width: 132px;
+    padding-top: 150px;
+    fill:white;
+}
+.navDiv1 svg
+{
+    fill:black;
+    color: black;
+    display:flex;
+}
+.navDiv2
+{
+    height: 80px;
+    width: 492px;
+
+
+}
+.navDiv2 ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    padding-top: 24px;
+}
+.navDiv2 ul li
+{
+    color:red;
+}
+.navDiv2 ul li a
+{
+    text-decoration: aqua;
+    color:red;
+    padding-left: 100px;
+    font-weight: 700;
+    font-family: Circular,spotify-circular,Helvetica,Arital,sans-serif;
+    font-size: 15px;
+
+}
+.navDiv2 ul li a:hover
+{
+    color: blue;
+}

@@ -1,0 +1,28 @@
+p::first-letter
+{
+    color:red;
+    font-size: larger;
+}
+p::first-line
+{
+    background-color: blue;
+}
+
+p::before
+{
+    content: url("https://media.istockphoto.com/photos/beechwood-leaves-in-sunlight-picture-id1391187360?b=1&k=20&m=1391187360&s=170667a&w=0&h=8L58NcbL7mpMUnaVp_jFi-U1wy-5idRmlbURJLSArfE=");
+    content:"😁✌" ;
+}
+p::after
+{
+    content: "Welcome";
+}
+li::marker
+{
+    color: aqua;
+}
+li::selection
+{
+    color: brown;
+    background-color: gray;
+}

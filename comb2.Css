@@ -1,0 +1,16 @@
+section p
+{
+    color: blue;
+}
+section>h1
+{
+    background-color: yellow;
+}
+section+h1
+{
+    color: rgb(42, 177, 24);
+}
+section~p
+{
+    background-color: pink;
+}

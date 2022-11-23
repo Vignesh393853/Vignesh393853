@@ -1,0 +1,12 @@
+div p:last-child
+{
+    color:blue
+}
+div h1:nth-child(3)
+{
+    color: red;
+}
+div p:nth-child(4)
+{
+    background-color: blue;
+}

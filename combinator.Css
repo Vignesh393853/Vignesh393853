@@ -1,0 +1,16 @@
+body div
+{
+    color: darkturquoise;
+}
+div>p
+{
+    background-color: brown;
+}
+div+h1
+{
+    color: blueviolet;
+}
+div~p
+{
+    background-color:red;
+}

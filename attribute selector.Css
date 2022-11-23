@@ -1,0 +1,12 @@
+a[target]
+{
+    background-color: blue;
+}
+a[target="_blank"]
+{
+    font-style: italic;
+}
+a[target="_self"]
+{
+    font-style: italic;
+}
