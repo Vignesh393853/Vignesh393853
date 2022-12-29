@@ -1,0 +1,10 @@
+class Local1 
+{
+	static int b;
+	public static void main(String[] args) 
+	{
+		int a;
+		inta;
+		System.out.println(a);
+	}
+}
