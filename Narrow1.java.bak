@@ -1,0 +1,9 @@
+class Na33
+{
+	public static void main(String[] args) 
+	{
+		int i=2147483543;
+		float c=(float)i;
+		System.out.println("byte type:" +c);
+	}
+}
